@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Contador {
 
     public static void main(String[] args) {
-        // TODO Auto-generated method stub
+
         Scanner terminal = new Scanner(System.in);
 		System.out.println("Digite o primeiro parâmetro: ");
 		int parametroUm = terminal.nextInt();
